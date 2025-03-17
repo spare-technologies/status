@@ -5,11 +5,26 @@ repo: status # The name of this repository
 sites:
   - name: Website
     url: https://tryspare.com
+    assignees:
+    - bdspare
+    - hasnimehdi91
+  - name: Docs
+    url: https://docs.tryspare.com
+    assignees:
+    - bdspare
+    - hasnimehdi91
+  - name: Dashboard
+    url: https://dashboard.tryspare.com
+    assignees:
+    - bdspare
+    - hasnimehdi91
 status-website:
   baseUrl: /status
   logoUrl: https://tryspare.com/assets/images/homepage/logo-blue.png
-  name: Spare Status
-  theme: ocean
+  name: Status
+  theme: light
+  favicon: https://tryspare.com/assets/res/favicons/favicon-32x32.png
+  robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
       href: /
