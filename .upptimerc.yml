@@ -18,6 +18,11 @@ sites:
     assignees:
     - bdspare
     - hasnimehdi91
+  - name: Dashboard(Sandbox)
+    url: https://dashboard.sandbox.tryspare.com
+    assignees:
+    - bdspare
+    - hasnimehdi91
 status-website:
   baseUrl: /status
   logoUrl: https://tryspare.com/assets/images/homepage/logo-blue.png
