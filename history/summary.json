@@ -22,19 +22,19 @@
     "url": "https://docs.tryspare.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.tryspare.com.ico",
     "slug": "docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 407,
-    "timeWeek": 667,
-    "timeMonth": 784,
-    "timeYear": 784,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 782,
+    "timeDay": 523,
+    "timeWeek": 677,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 13
     }
   },
   {
