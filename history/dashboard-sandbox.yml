@@ -1,7 +1,7 @@
 url: https://dashboard.sandbox.tryspare.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-28T14:00:33.698Z
+status: up
+code: 200
+responseTime: 963
+lastUpdated: 2025-04-28T14:22:35.459Z
 startTime: 2025-03-19T08:08:36.551Z
 generator: Upptime <https://github.com/upptime/upptime>
