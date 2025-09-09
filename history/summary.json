@@ -76,7 +76,7 @@
     "url": "https://dashboard.sandbox.tryspare.com",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.sandbox.tryspare.com.ico",
     "slug": "dashboard-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "93.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
